@@ -1,0 +1,284 @@
+[
+  {
+    "category": "General Knowledge",
+    "question": "What is the capital of France?",
+    "options": ["Madrid", "Berlin", "Paris", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "category": "Science",
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Jupiter"
+  },
+  {
+    "category": "Literature",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "F. Scott Fitzgerald"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Ge", "Au", "Ag"],
+    "answer": "Au"
+  },
+  {
+    "category": "Biology",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Chloroplast", "Endoplasmic Reticulum"],
+    "answer": "Mitochondria"
+  },
+  {
+    "category": "History",
+    "question": "In which year did Christopher Columbus discover America?",
+    "options": ["1492", "1500", "1607", "1776"],
+    "answer": "1492"
+  },
+  {
+    "category": "Science",
+    "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "category": "Astronomy",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "answer": "H2O"
+  },
+  {
+    "category": "Physics",
+    "question": "Who is known as the 'Father of Modern Physics'?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Stephen Hawking"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "category": "Geography",
+    "question": "Which is the largest continent by land area?",
+    "options": ["Asia", "Africa", "North America", "South America"],
+    "answer": "Asia"
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is the value of π (pi) to two decimal places?",
+    "options": ["3.14", "2.71", "4.16", "1.62"],
+    "answer": "3.14"
+  },
+  {
+    "category": "Music",
+    "question": "Who is known as the 'King of Pop'?",
+    "options": ["Elvis Presley", "Michael Jackson", "Prince", "Justin Timberlake"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "category": "Movies",
+    "question": "Which film won the Academy Award for Best Picture in 2020?",
+    "options": ["Parasite", "1917", "Joker", "The Irishman"],
+    "answer": "Parasite"
+  },
+  {
+    "category": "Sports",
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["Brazil", "Russia", "China", "United States"],
+    "answer": "Brazil"
+  },
+  {
+    "category": "Technology",
+    "question": "Who co-founded Microsoft with Bill Gates?",
+    "options": ["Steve Wozniak", "Steve Jobs", "Mark Zuckerberg", "Paul Allen"],
+    "answer": "Paul Allen"
+  },
+  {
+    "category": "Food",
+    "question": "Which fruit is known as the 'king of fruits'?",
+    "options": ["Banana", "Apple", "Mango", "Grapes"],
+    "answer": "Mango"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "answer": "George Washington"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for oxygen?",
+    "options": ["O", "O2", "O3", "Ox"],
+    "answer": "O2"
+  },
+  {
+    "category": "Art",
+    "question": "Which artist is famous for painting the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Hippopotamus", "Blue Whale", "Giraffe"],
+    "answer": "Blue Whale"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for lead?",
+    "options": ["Fe", "Pb", "Li", "Au"],
+    "answer": "Pb"
+  },
+  {
+    "category": "Literature",
+    "question": "Which Shakespearean play features the character Othello?",
+    "options": ["Macbeth", "Hamlet", "Othello", "Romeo and Juliet"],
+    "answer": "Othello"
+  },
+  {
+    "category": "Science",
+    "question": "What is the smallest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "category": "Biology",
+    "question": "Which gas do plants release during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": ["Amelia Earhart", "Marie Curie", "Rosa Parks", "Helen Keller"],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for silver?",
+    "options": ["Sv", "Sl", "Si", "Ag"],
+    "answer": "Ag"
+  },
+  {
+    "category": "Astronomy",
+    "question": "Which planet is known as the 'Morning Star'?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "category": "Chemistry",
+    "question": "What is the chemical symbol for iron?",
+    "options": ["Fe", "Ir", "In", "I"],
+    "answer": "Fe"
+  },
+  {
+    "category": "Physics",
+    "question": "What is the unit of measurement for electrical resistance?",
+    "options": ["Volt", "Watt", "Ampere", "Ohm"],
+    "answer": "Ohm"
+  },
+  {
+    "category": "Geography",
+    "question": "Which ocean is the largest by surface area?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "category": "Mathematics",
+    "question": "What is the square root of 144?",
+    "options": ["10", "12", "14", "16"],
+    "answer": "12"
+  },
+  {
+    "category": "Music",
+    "question": "Who composed the famous 'Moonlight Sonata'?",
+    "options": ["Mozart", "Beethoven", "Chopin", "Tchaikovsky"],
+    "answer": "Beethoven"
+  },
+  {
+    "category": "Movies",
+    "question": "Which film features the character Jack Dawson and Rose DeWitt Bukater?",
+    "options": ["Titanic", "Inception", "The Dark Knight", "Gladiator"],
+    "answer": "Titanic"
+  },
+  {
+    "category": "Sports",
+    "question": "Which sport is known as the 'Sport of Kings'?",
+    "options": ["Cricket", "Soccer", "Polo", "Tennis"],
+    "answer": "Polo"
+  },
+  {
+    "category": "Technology",
+    "question": "Who is the co-founder of Apple Inc. alongside Steve Jobs?",
+    "options": ["Steve Wozniak", "Tim Cook", "Mark Zuckerberg", "Larry Page"],
+    "answer": "Steve Wozniak"
+  },
+  {
+    "category": "Food",
+    "question": "What is the primary ingredient in traditional Japanese miso soup?",
+    "options": ["Seaweed", "Tofu", "Soy Sauce", "Miso Paste"],
+    "answer": "Miso Paste"
+  },
+  {
+    "category": "History",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Marie Curie", "Rosa Parks", "Amelia Earhart", "Helen Keller"],
+    "answer": "Marie Curie"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for hydrogen?",
+    "options": ["Hg", "He", "H2", "H"],
+    "answer": "H"
+  },
+  {
+    "category": "Art",
+    "question": "Which famous artist is known for painting 'The Starry Night'?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "category": "General Knowledge",
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Jupiter", "Mars", "Earth", "Venus"],
+    "answer": "Jupiter"
+  },
+  {
+    "category": "Science",
+    "question": "What is the atomic number of oxygen?",
+    "options": ["8", "12", "16", "24"],
+    "answer": "8"
+  },
+  {
+    "category": "Literature",
+    "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+    "options": ["J.K. Rowling", "Harper Lee", "Charles Dickens", "George Orwell"],
+    "answer": "Harper Lee"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for silver?",
+    "options": ["Sl", "Si", "Ag", "Sv"],
+    "answer": "Ag"
+  },
+  {
+    "category": "Biology",
+    "question": "What gas do plants release during photosynthesis?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "category": "History",
+    "question": "In which year did the Titanic sink?",
+    "options": ["1907", "1912", "1920", "1931"],
+    "answer": "1912"
+  },
+  {
+    "category": "Science",
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["K", "P", "Po", "Ka"],
+    "answer": "K"
+  }
+  ]

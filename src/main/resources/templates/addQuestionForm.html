@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Question</title>
+</head>
+<body>
+<h1>Add a New Question</h1>
+<form id="addQuestionForm">
+    <label for="category">Category:</label>
+    <input type="text" id="category" name="category"><br>
+
+    <label for="question">Question:</label>
+    <input type="text" id="question" name="question"><br>
+
+    <label for="options">Options (comma-separated):</label>
+    <input type="text" id="options" name="options"><br>
+
+    <label for="answer">Answer:</label>
+    <input type="text" id="answer" name="answer"><br>
+
+    <button type="button" onclick="addQuestion()">Submit</button>
+</form>
+
+<div id="responseMessage"></div>
+
+<script>
+        function addQuestion() {
+            const category = document.getElementById("category").value;
+            const question = document.getElementById("question").value;
+            const options = document.getElementById("options").value.split(',');
+            const answer = document.getElementById("answer").value;
+
+            const data = {
+                category: category,
+                question: question,
+                options: options,
+                answer: answer
+            };
+
+            fetch('/add-question', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.text())
+            .then(responseText => {
+                document.getElementById("responseMessage").textContent = responseText;
+            });
+        }
+    </script>
+</body>
+</html>

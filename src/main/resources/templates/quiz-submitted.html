@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Results</title>
+</head>
+<body>
+
+<h2>Quiz Results</h2>
+
+<!-- Iterate over QuestionResults -->
+<div th:each="questionResult questionResultIndex: ${quizResult.questionResults}">
+    <div>
+        <p th:text="${'Question: ' + questionResult.questionId}"></p>
+        <p th:text="${'Selected Answer: ' + questionResult.selectedAnswer}"></p>
+        <p th:text="${'Correct Answer: ' + questionResult.correctAnswer}"></p>
+        <p th:text="${'Result: ' + (questionResult.isCorrect ? 'Correct' : 'Incorrect')}"></p>
+    </div>
+    <hr/>
+</div>
+
+</body>
+</html>

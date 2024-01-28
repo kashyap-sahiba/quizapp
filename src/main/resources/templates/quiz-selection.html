@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th = "http://www.thymleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Quiz Selection</title>
+</head>
+<body>
+
+<h2>Select Quiz Type</h2>
+
+<form th:action="@{/question/start-quiz}" th:object="${categories}" method = "GET">
+  <label for="category">Select Category</label>
+    <select id="category" name="category">
+        <option th:each="category : ${categories}" th:value="${category}" th:text="${category}"></option>
+    </select>
+
+    <button type = "submit">Start Quiz</button>
+</form>
+
+</body>
+</html>
